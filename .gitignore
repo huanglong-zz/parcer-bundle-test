@@ -1,0 +1,14 @@
+.DS_Store
+npm-debug.log
+node_modules
+.nuxt
+yarn-error.log
+jsconfig.json
+.vscode
+.eslintrc.json
+package-lock.json
+public/dist
+public/*.pug
+__generated__
+webpackDevServerConf/*
+server/views/_build
